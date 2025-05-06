@@ -1,11 +1,10 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm <span style="color:#4CAF50;">TakeeRyu</span> <small>(タケリュ)</small></h1>
-<p align="center">
-  <a href="https://github.com/TakeeRyu">
-    <img src="https://avatars.githubusercontent.com/TakeeRyu" width="120" style="border-radius: 50%;" alt="TakeeRyu's avatar" />
-  </a>
-</p>
-
+<div align="center" style="background: linear-gradient(135deg, #4CAF50, #2196F3); padding: 2rem; border-radius: 20px; color: white;">
+  <img src="https://avatars.githubusercontent.com/TakeeRyu" width="100" style="border-radius: 50%; border: 3px solid white;" alt="TakeeRyu avatar" />
+  <h1 style="margin: 0.5em 0 0.2em;">TakeeRyu <small style="font-size: 0.6em;">タケリュ</small></h1>
+  <p style="font-size: 1.2em; font-weight: 300;">Full-Stack Developer | Java / Python / C# / JS / TS</p>
+  <p style="font-size: 1em;">Languages: Mandarin | English | 日本語</p>
+</div>
 ---
 
 ## <img src="https://img.icons8.com/ios/30/code--v1.png" width="20"/> Tech Stack
