@@ -1,4 +1,3 @@
-<img src="https://avatars.githubusercontent.com/TakeeRyu" width=100/>
   <h1>Hi there!</h1>
   <p>I'm <b>TakeeRyu</b>, or タケリュ.</p>
   <p>I'm a noob Full-Stack Developer</p>
